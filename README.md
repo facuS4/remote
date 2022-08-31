@@ -3,6 +3,6 @@
 - Mario Caro
 - Facundo Salaberry
 
-** Firma de los participantes ** 
--~~Mario~~
--~~Facundo~~
+**Firma de los participantes** 
+- ~~Mario~~
+- ~~Facundo~~
