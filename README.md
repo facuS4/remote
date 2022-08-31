@@ -4,5 +4,5 @@
 - Facundo Salaberry
 
 ** Firma de los participantes ** 
-~~ Mario ~~.
-~~ Facundo ~~.
+~~Mario~~
+~~Facundo~~
