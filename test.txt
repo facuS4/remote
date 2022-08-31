@@ -1,3 +1,7 @@
 testo de prueba
 cambio 
+<<<<<<< HEAD
 aca no hubo otro otro cambio
+=======
+otro otro cambio 
+>>>>>>> a33ab2c117e42532a04933a728c7bb97fd0a86c6
